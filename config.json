@@ -48,14 +48,23 @@
       "dueDate": "2026-03-02",
       "attachments": [
         {
-          "name": "Starter Code",
-          "file": "starter-code.py",
-          "type": "python"
-        },
-        {
           "name": "Sample Dataset",
           "file": "data.csv",
           "type": "csv"
+        }
+      ]
+    },
+    {
+      "id": "rest-apis-fastapi",
+      "title": "Building REST APIs with FastAPI",
+      "description": "Creating RESTful APIs using FastAPI framework",
+      "path": "assignments/rest-apis-fastapi",
+      "dueDate": "2026-02-23",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
         }
       ]
     }
